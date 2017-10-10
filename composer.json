@@ -1,0 +1,21 @@
+{
+  "name": "longway/monitor",
+  "description": "monitor",
+  "authors": [
+    {
+      "name": "lkg",
+      "email": "linkanggui1@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+    	"Longway\\Monitor\\": "src/"
+    }
+  }
+}
